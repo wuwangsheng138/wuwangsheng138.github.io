@@ -1,6 +1,9 @@
 ---
 layout: post
 author: Vince
+tag: XXX
+label: YYY
+
 ---
 
 What a wonderful day! Finally, I opened my blog at github. I wanted to own a
