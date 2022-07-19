@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Vince
 ---
 
 What a wonderful day! Finally, I opened my blog at github. I wanted to own a
