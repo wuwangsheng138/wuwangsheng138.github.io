@@ -12,9 +12,9 @@ For example, I have a file named `info` including many important information in
 my home directory, so I don't want others to read it. To encrypt this file,
 we could do this:
 
-<div class="code"><pre>
-<tt>billie@piggy:~$ vim -x info</tt>
-</pre></div>
+```python
+print('Hello World!')
+```
 
 After run this command, you will get prompt at the bottom of your screen.
 
